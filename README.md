@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siddharth5815
-- 👀 I’m interested in Cloud Infrastructure specially AWS
-- 🌱 Professionally trained and fresh postgraduate individual with global certifications in cloud technologies, including AWS Cloud Practitioner and Microsoft Azure Fundamentals
-- 🧑🏻‍💻 Hands-on project experience in AWS, CI/CD and Linux
+- 👀 I’m interested in Cloud and DevOps
+- 🌱 Professionally 2+ year of experience.
+- 🧑🏻‍💻 Hands-on project experience in AWS and CI/CD
 - 💞️ Eager to apply my skills to the Cloud, DevOps projects
 - 📫 How to reach me work.siddharthdubey@gmail.com
 
